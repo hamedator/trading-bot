@@ -3,7 +3,11 @@
 A high-performance automated cryptocurrency trading bot built with Python.  
 Designed for real-time trading on Binance with strategy modularity and scalability in mind.
 
----
+=======
+Made with 💻 by Hamed Ibrahim
+Contact Me:
+https://www.upwork.com/freelancers/hamedm20
+=======
 
 ## 🚀 Features
 
@@ -11,7 +15,7 @@ Designed for real-time trading on Binance with strategy modularity and scalabili
 - ✅ Modular trading strategies (EMA, RSI, etc.)
 - ✅ Auto logging system (`logger.py`)
 - ✅ Configurable risk management
-- ✅ Ready for backtesting and live trading
+- ✅ Ready for live trading
 
 ---
 
@@ -27,7 +31,7 @@ pip install -r requirements.txt
 
 📂 Project Structure
 
-project_binance/
+🧠 trading-bot/
 │
 ├── main.py
 ├── config.py
@@ -60,6 +64,5 @@ python main.py
 Made with 💻 by Hamed Ibrahim
 Contact Me:
 https://www.upwork.com/freelancers/hamedm20
-MIT License – free to use, modify, and distribute.
-
 =======
+
