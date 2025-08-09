@@ -1,4 +1,4 @@
-# 🧠 My Trading Bot
+# 🧠 trading-bot
 
 A high-performance automated cryptocurrency trading bot built with Python.  
 Designed for real-time trading on Binance with strategy modularity and scalability in mind.
@@ -49,14 +49,6 @@ project_binance/
 │
 ├── utils/
 │  └── symbols.py
-│
-│
-├── dashboard/
-│   ├── control.py
-│   ├── board.html
-│   ├── style.cc
-│   └── script.js
-│
 
 🧪 How to Run
 
@@ -66,7 +58,8 @@ python main.py
 👨‍💻 Author
 
 Made with 💻 by Hamed Ibrahim
-📜 License
-
+Contact Me:
+https://www.upwork.com/freelancers/hamedm20
 MIT License – free to use, modify, and distribute.
+
 =======
